@@ -6,3 +6,6 @@
 - Result: 
 
 ![](one.gif)
+
+### Change Learning rate and Bias
+![](one_LR_Bias.png)
